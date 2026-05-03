@@ -88,6 +88,7 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 - **Enterprise-ready**: Setup of **NetBox** (IPAM), **Nextcloud**, and **High Availability database clusters** (MariaDB).
 - **Network Simulation**: Complex topologies in **Packet Tracer** (IPv4/IPv6).
 - **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & network-based booting.
+- **[System Engineering Project](https://github.com/HoGentTIN/system-engineering-project-25-26-sep2526-a04)**
 
 ### 🎮 Software Development (Alhambra Dice Game)
 *Object-oriented Java application based on 3-tier architecture.*
