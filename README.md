@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Student-Network%20%26%20Infrastructure-1f4e79?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Mechelen%2C%20Belgium-2f6f9f?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ninove%2C%20Belgium-2f6f9f?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Networking-0f766e?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
