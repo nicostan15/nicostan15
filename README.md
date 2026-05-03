@@ -78,20 +78,20 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 ## 🚀 Projects
 
 ### 🛡️ Cybersecurity & Exploitatie (HoGent NPE)
-*Analyses en PoC's voor RCE-kwetsbaarheden in een lab-omgeving.*
-- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC-analyse, automatisering & hardening-advies.
-- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploitatie-onderzoek (Auth bypass + Command injection).
+*Analyses and PoC's for RCE vulnerabilities in a controlled lab environment.*
+- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC analysis, automation & hardening recommendations.
+- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploit research (Auth bypass + Command injection).
 
 ### 🛠️ Infrastructure & Cloud Systems
-*Traject voor beheer van schaalbare IT-infrastructuur.*
-- **Cloud & Containerisatie**: WordPress op **Azure**, beheer via **Docker**.
-- **Enterprise-ready**: Setup van **NetBox** (IPAM), **Nextcloud**, en **High Availability database clusters** (MariaDB).
-- **Netwerk-simulatie**: Complexe topologieën in **Packet Tracer** (IPv4/IPv6).
-- **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & netwerk-based booting.
+*Trajectory for managing scalable IT-infrastructure.*
+- **Cloud & Containerization**: WordPress on **Azure**, management via **Docker**.
+- **Enterprise-ready**: Setup of **NetBox** (IPAM), **Nextcloud**, and **High Availability database clusters** (MariaDB).
+- **Network Simulation**: Complex topologies in **Packet Tracer** (IPv4/IPv6).
+- **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & network-based booting.
 
 ### 🎮 Software Development (Alhambra Dice Game)
-*Object-georiënteerde Java-applicatie volgens 3-lagen architectuur.*
-- Focus: Software-analyse (UML/DCD), database-design (MySQL), en kwaliteitsvolle code (JUnit/Javadoc).
+*Object-oriented Java application based on 3-tier architecture.*
+- Focus: Software analysis (UML/DCD), database design (MySQL), and high-quality code (JUnit/Javadoc).
 
 ---
 
