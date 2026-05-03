@@ -120,7 +120,6 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 
 ## 📫 Contact
 
-- Email: your.email@example.com
-- Phone: +32 ...
+- Email: nicholas.c.stanescu@gmail.com
+- Phone: +32 483333394
 - GitHub: [nicostan15](https://github.com/nicostan15)
-- LinkedIn: your LinkedIn link
