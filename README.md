@@ -77,21 +77,21 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 
 ## 🚀 Projects
 
-### CVE-2026-33017 – Langflow RCE Lab
-Contributor to an educational lab project about an unauthenticated RCE vulnerability in Langflow, created for HoGent CyberSecurity II.
+### 🛡️ Cybersecurity & Exploitatie (HoGent NPE)
+*Analyses en PoC's voor RCE-kwetsbaarheden in een lab-omgeving.*
+- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC-analyse, automatisering & hardening-advies.
+- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploitatie-onderzoek (Auth bypass + Command injection).
 
-- Repository: [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)
-- Focus: lab setup, PoC verification, documentation, and exploit analysis.
+### 🛠️ Infrastructure & Cloud Systems
+*Traject voor beheer van schaalbare IT-infrastructuur.*
+- **Cloud & Containerisatie**: WordPress op **Azure**, beheer via **Docker**.
+- **Enterprise-ready**: Setup van **NetBox** (IPAM), **Nextcloud**, en **High Availability database clusters** (MariaDB).
+- **Netwerk-simulatie**: Complexe topologieën in **Packet Tracer** (IPv4/IPv6).
+- **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & netwerk-based booting.
 
-### Home Network Lab
-Hands-on lab focused on VLANs, routing, firewall basics, and infrastructure testing.
-
-- Focus: network segmentation, routing, and practical system administration.
-
-### Cybersecurity Practice
-Practice through HTB-style labs and web security learning platforms.
-
-- Platforms: Hack The Box, TryHackMe, PortSwigger Web Security Academy
+### 🎮 Software Development (Alhambra Dice Game)
+*Object-georiënteerde Java-applicatie volgens 3-lagen architectuur.*
+- Focus: Software-analyse (UML/DCD), database-design (MySQL), en kwaliteitsvolle code (JUnit/Javadoc).
 
 ---
 
