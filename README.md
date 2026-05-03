@@ -93,6 +93,15 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 *Object-oriented Java application based on 3-tier architecture.*
 - Focus: Software analysis (UML/DCD), database design (MySQL), and high-quality code (JUnit/Javadoc).
 
+## 🏠 Personal HomeLab & Media Infrastructure
+*Self-hosted infrastructure enthusiast.*
+
+I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualization, containerization, and self-hosting.
+
+- **Virtualization**: Proxmox VE (PVE) management.
+- **Media Stack**: Jellyfin, Sonarr, Radarr, Prowlarr, qBittorrent.
+- **Network & Security**: Nginx Reverse Proxy & Pi-hole for network-wide ad-blocking.
+- **Projects**: SportFin (custom monitoring), continuous experimentation with Linux containers & services.
 ---
 
 ## 🌍 Languages
