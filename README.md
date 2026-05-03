@@ -77,21 +77,15 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 
 ## 🚀 Projects
 
-### CVE-2026-33017 – Langflow RCE Lab
-Contributor to an educational lab project about an unauthenticated RCE vulnerability in Langflow, created for HoGent CyberSecurity II.
+### HoGent CyberSecurity II – Netwerk Pentesting & Exploitatie (NPE)
+Een uitgebreid educatief project waarin we een veilige netwerkomgeving opzetten, exploiteren en harden.
 
-- Repository: [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)
-- Focus: lab setup, PoC verification, documentation, and exploit analysis.
+- **CVE-2026-33017 – Langflow RCE Lab**: Contributor aan de exploitatie-PoC en documentatie van een kritieke RCE-kwetsbaarheid in Langflow.
+- **Infrastructuur & Automatisering**: Setup van diverse servers (Database, Reverse Proxy, TFTP, Windows AD) via Vagrant/Bash-provisioning scripts.
+- **Security & Netwerken**: Focus op netwerksegmentatie (VLANs), firewall-configuratie (harding), reverse proxy versie-obfuscatie en fysieke netwerktests.
+- **Team-rol**: Verantwoordelijk voor database, reverse proxy, netwerkontwerp en de integratie van fysieke hardware-testopstellingen.
 
-### Home Network Lab
-Hands-on lab focused on VLANs, routing, firewall basics, and infrastructure testing.
-
-- Focus: network segmentation, routing, and practical system administration.
-
-### Cybersecurity Practice
-Practice through HTB-style labs and web security learning platforms.
-
-- Platforms: Hack The Box, TryHackMe, PortSwigger Web Security Academy
+*Link: [Jorrit-VM/CVE-2026-33017](https://github.com/Jorrit-VM/CVE-2026-33017)*
 
 ---
 
