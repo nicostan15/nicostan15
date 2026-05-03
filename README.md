@@ -83,12 +83,12 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 - **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploit research (Auth bypass + Command injection).
 
 ### 🛠️ Infrastructure & Cloud Systems
-**[System Engineering Project](https://github.com/HoGentTIN/system-engineering-project-25-26-sep2526-a04)**
 *Trajectory for managing scalable IT-infrastructure.*
 - **Cloud & Containerization**: WordPress on **Azure**, management via **Docker**.
 - **Enterprise-ready**: Setup of **NetBox** (IPAM), **Nextcloud**, and **High Availability database clusters** (MariaDB).
 - **Network Simulation**: Complex topologies in **Packet Tracer** (IPv4/IPv6).
 - **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & network-based booting.
+**[System Engineering Project](https://github.com/HoGentTIN/system-engineering-project-25-26-sep2526-a04)**
 
 ### 🎮 Software Development (Alhambra Dice Game)
 *Object-oriented Java application based on 3-tier architecture.*
