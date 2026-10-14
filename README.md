@@ -10,7 +10,11 @@
 
 ## 👨‍💻 About me
 
-Motivated second-year Bachelor student in Applied Informatics at HoGent, with a strong focus on network and infrastructure management. I have built a solid technical foundation in Cisco networking, Linux and Windows server administration, virtualization, and scripting. I am looking for a challenging internship where I can apply and deepen my knowledge in a professional IT environment.
+Bachelor student in Applied Informatics at HoGent, specializing in Network & System Administration, with a strong interest in cybersecurity and infrastructure automation.
+
+I build and troubleshoot Linux and Windows Server environments, configure networks, and automate deployments using Vagrant, Ansible, Bash, and PowerShell. My projects combine system administration with application hosting, databases, and Jenkins CI/CD pipelines.
+
+Alongside my coursework, I maintain a Proxmox homelab to experiment with virtualization, containers, self-hosting, and network security.
 
 ---
 
@@ -84,43 +88,8 @@ Network scanning · Packet analysis · Web security · Linux hardening · Author
 
 ## 🚀 Projects
 
-### 🛡️ Cybersecurity & Exploitatie (HoGent NPE)
-
-### 🛠️ [System Engineering Project](https://github.com/HoGentTIN/system-engineering-project-25-26-sep2526-a04)
-*Trajectory for managing scalable IT-infrastructure.*
-- **Cloud & Containerization**: WordPress on **Azure**, management via **Docker**.
-- **Enterprise-ready**: Setup of **NetBox** (IPAM), **Nextcloud**, and **High Availability database clusters** (MariaDB).
-- **Network Simulation**: Complex topologies in **Packet Tracer** (IPv4/IPv6).
-- **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & network-based booting.
-
-*Analyses and PoC's for RCE vulnerabilities in a controlled lab environment.*
-- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC analysis, automation & hardening recommendations.
-- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploit research (Auth bypass + Command injection).
-
-### 🎮 Software Development (Alhambra Dice Game)
-*Object-oriented Java application based on 3-tier architecture.*
-- Focus: Software analysis (UML/DCD), database design (MySQL), and high-quality code (JUnit/Javadoc).
-
-## 🏠 Personal HomeLab & Media Infrastructure
-*Self-hosted infrastructure enthusiast.*
-
-I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualization, containerization, and self-hosting.
-
-- **Virtualization**: Proxmox VE (PVE) management.
-- **Media Stack**: Jellyfin, Sonarr, Radarr, Prowlarr, qBittorrent.
-- **Network & Security**: Nginx Reverse Proxy & Pi-hole for network-wide ad-blocking.
-- **Projects**: SportFin (custom monitoring), continuous experimentation with Linux containers & services.
----
-
-### 🖥️ [Windows Server II – Automated AD/DNS/CA Infrastructure](https://github.com/nicostan15/Windows-Server-II-portofolio) (HoGent)
-*In progress — fully scripted Windows Server domain deployment via Vagrant & PowerShell.*
-- **Automation-first**: single `vagrant up` deploys a domain controller, DNS, CA, and DHCP across 3 Windows Server Core VMs + 1 Windows 11 RSAT client.
-- **Active Directory**: domain/forest promotion scripted end-to-end (functional level Windows Server 2025), with idempotent OU structure and user provisioning (Domain Admins/Domain Users).
-- **Troubleshooting**: resolved a WinRM authentication breakage caused by domain-controller promotion by reconfiguring Vagrant's WinRM transport.
-- **Next up**: DNS (primary/secondary, zone transfers), Certification Authority, IIS, and firewall hardening.
-
 ### ⚙️ [DevOps Test Environment – Vagrant & Ansible](https://github.com/nicostan15/devops-ops-2627-group-3) (HoGent)
-*In progress — infrastructure-as-Code project for deploying and managing a multi-server test environment with CI/CD.*
+*In progress — Infrastructure-as-Code project for deploying and managing a multi-server test environment with CI/CD.*
 - **Automated multi-VM environment**: one `vagrant up` creates and starts an Ansible control server, application server, database server, and build server.
 - **Central configuration management**: the Ansible control server configures all other VMs through reusable roles and a single playbook.
 - **CI/CD with Jenkins**: a dedicated build server runs Jenkins and is used to build, test, and deploy the .NET application through automated pipelines.
@@ -129,6 +98,38 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 - **Secure access**: SSH access between the control server and managed VMs is automatically bootstrapped by Vagrant.
 - **Reproducible setup**: the environment can be destroyed and rebuilt from scratch using Vagrant and Ansible, without manual server configuration.
 
+### 🖥️ [Windows Server II – Automated AD/DNS/CA Infrastructure](https://github.com/nicostan15/Windows-Server-II-portofolio) (HoGent)
+*In progress — fully scripted Windows Server domain deployment via Vagrant & PowerShell.*
+- **Automation-first**: single `vagrant up` deploys a domain controller, DNS, CA, and DHCP across 3 Windows Server Core VMs + 1 Windows 11 RSAT client.
+- **Active Directory**: domain/forest promotion scripted end-to-end (functional level Windows Server 2025), with idempotent OU structure and user provisioning (Domain Admins/Domain Users).
+- **Troubleshooting**: resolved a WinRM authentication breakage caused by domain-controller promotion by reconfiguring Vagrant's WinRM transport.
+- **Next up**: DNS (primary/secondary, zone transfers), Certification Authority, IIS, and firewall hardening.
+
+### 🛠️ [System Engineering Project](https://github.com/HoGentTIN/system-engineering-project-25-26-sep2526-a04)
+*Trajectory for managing scalable IT-infrastructure.*
+- **Cloud & Containerization**: WordPress on **Azure**, management via **Docker**.
+- **Enterprise-ready**: Setup of **NetBox** (IPAM), **Nextcloud**, and **High Availability database clusters** (MariaDB).
+- **Network Simulation**: Complex topologies in **Packet Tracer** (IPv4/IPv6).
+- **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & network-based booting.
+
+### 🛡️ Cybersecurity & Exploit Research (HoGent NPE)
+*Analyses and proof-of-concept research for RCE vulnerabilities in controlled lab environments.*
+- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC analysis, automation & hardening recommendations.
+- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploit research (Auth bypass + Command injection).
+
+### 🎮 Software Development (Alhambra Dice Game)
+*Object-oriented Java application based on a 3-tier architecture.*
+- Focus: software analysis (UML/DCD), database design (MySQL), and high-quality code (JUnit/Javadoc).
+
+### 🏠 Personal HomeLab & Media Infrastructure
+*Self-hosted infrastructure enthusiast.*
+
+I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualization, containerization, and self-hosting.
+
+- **Virtualization**: Proxmox VE (PVE) management.
+- **Media Stack**: Jellyfin, Sonarr, Radarr, Prowlarr, qBittorrent.
+- **Network & Security**: Nginx Reverse Proxy & Pi-hole for network-wide ad-blocking.
+- **Projects**: SportFin (custom monitoring), continuous experimentation with Linux containers & services.
 ---
 
 ## 💼 Work experience
