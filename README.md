@@ -28,7 +28,7 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 ## 💼 Work experience
 
 ### Crew Member
-**McDonald’s – Brakelsesteenweg 40, Ninove**  
+**McDonald's – Brakelsesteenweg 40, Ninove**  
 **Nov 2024 – present**
 
 - Working in a fast-paced and dynamic team under time pressure.
@@ -76,6 +76,13 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 ---
 
 ## 🚀 Projects
+
+### 🖥️ Windows Server II – Automated AD/DNS/CA Infrastructure (HoGent)
+*In progress — fully scripted Windows Server domain deployment via Vagrant & PowerShell.*
+- **Automation-first**: single `vagrant up` deploys a domain controller, DNS, CA, and DHCP across 3 Windows Server Core VMs + 1 Windows 11 RSAT client.
+- **Active Directory**: domain/forest promotion scripted end-to-end (functional level Windows Server 2025), with idempotent OU structure and user provisioning (Domain Admins/Domain Users).
+- **Troubleshooting**: resolved a WinRM authentication breakage caused by domain-controller promotion by reconfiguring Vagrant's WinRM transport.
+- **Next up**: DNS (primary/secondary, zone transfers), Certification Authority, IIS, and firewall hardening.
 
 ### 🛡️ Cybersecurity & Exploitatie (HoGent NPE)
 *Analyses and PoC's for RCE vulnerabilities in a controlled lab environment.*
@@ -129,6 +136,6 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 
 ## 📫 Contact
 
-- Email: nicholas.c.stanescu@gmail.com
+- Email: [nicholas.c.stanescu@gmail.com](mailto:nicholas.c.stanescu@gmail.com)
 - Phone: +32 483333394
 - GitHub: [nicostan15](https://github.com/nicostan15)
