@@ -112,6 +112,16 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 - **Troubleshooting**: resolved a WinRM authentication breakage caused by domain-controller promotion by reconfiguring Vagrant's WinRM transport.
 - **Next up**: DNS (primary/secondary, zone transfers), Certification Authority, IIS, and firewall hardening.
 
+### ⚙️ [DevOps Test Environment – Vagrant & Ansible](https://github.com/nicostan15/devops-ops-2627-group-3) (HoGent)
+*In progress — infrastructure-as-Code project for deploying and managing a multi-server test environment with CI/CD.*
+- **Automated multi-VM environment**: one `vagrant up` creates and starts an Ansible control server, application server, database server, and build server.
+- **Central configuration management**: the Ansible control server configures all other VMs through reusable roles and a single playbook.
+- **CI/CD with Jenkins**: a dedicated build server runs Jenkins and is used to build, test, and deploy the .NET application through automated pipelines.
+- **Application infrastructure**: automated installation and configuration of Nginx, ASP.NET runtime, MariaDB, and the application database.
+- **Build infrastructure**: automated deployment of Jenkins, Git, Java, and the .NET SDK on a dedicated build server.
+- **Secure access**: SSH access between the control server and managed VMs is automatically bootstrapped by Vagrant.
+- **Reproducible setup**: the environment can be destroyed and rebuilt from scratch using Vagrant and Ansible, without manual server configuration.
+
 ## 🌍 Languages
 
 <p>
