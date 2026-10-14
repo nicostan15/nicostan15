@@ -10,11 +10,9 @@
 
 ## 👨‍💻 About me
 
-Bachelor student in Applied Informatics at HoGent, specializing in Network & System Administration, with a strong interest in cybersecurity and infrastructure automation.
+I’m a Bachelor student in Applied Informatics at HoGent, specializing in Network & System Administration. I’m passionate about technology and enjoy learning by building, experimenting, and solving problems.
 
-I build and troubleshoot Linux and Windows Server environments, configure networks, and automate deployments using Vagrant, Ansible, Bash, and PowerShell. My projects combine system administration with application hosting, databases, and Jenkins CI/CD pipelines.
-
-Alongside my coursework, I maintain a Proxmox homelab to experiment with virtualization, containers, self-hosting, and network security.
+Cybersecurity is my favorite field, with a particular interest in network security and system hardening. In my free time, I run a Proxmox homelab to explore virtualization, containers, self-hosting, and security.
 
 ---
 
@@ -24,8 +22,13 @@ Alongside my coursework, I maintain a Proxmox homelab to experiment with virtual
 **HoGent – Hogeschool Gent** | **Network & System Administration**  
 **2024 – present**
 
-- Computer networks, Linux system administration, Windows Server & AD, cybersecurity, scripting & automation, virtualization.
-- Hands-on labs with Cisco Packet Tracer, GNS3, VMware, and Linux servers.
+- Networking: Cisco networking, routing and switching, IPv4/IPv6, VLANs, subnetting, DNS, and DHCP.
+- Systems: Linux administration, Windows Server, Active Directory, virtualization, and web hosting.
+- Automation & DevOps: Bash, PowerShell, Vagrant, Ansible, Git, and Jenkins CI/CD.
+- Cybersecurity: network traffic analysis, web security, system hardening, and authorized penetration-testing labs.
+- Development & databases: Java, Python, HTML, CSS, JavaScript, SQL, and database design.
+
+---
 
 ## 🧰 Technical skills
 
@@ -48,13 +51,13 @@ Routing & switching · Subnetting · Firewalls · Linux administration · Window
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-Infrastructure as Code · Configuration management · CI/CD · Containerization · Deployment automation
+Infrastructure as Code · Configuration management · CI/CD · Deployment automation
 
 ### 💻 Programming & databases
 <p>
@@ -68,19 +71,19 @@ Infrastructure as Code · Configuration management · CI/CD · Containerization 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 </p>
 
-Object-oriented programming · Responsive web development · Database design · SQL · UML · Unit testing
+Object-oriented programming · Responsive web development · Database design · UML · Unit testing
 
-### 🛡️ Cybersecurity
+### 🛡️ Cybersecurity & Exploit Research
 <p>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Research-E11D48?style=for-the-badge" />
 </p>
 
-Network scanning · Packet analysis · Web security · Linux hardening · Authorized penetration-testing labs
+Network scanning · Packet analysis · Web security · Vulnerability analysis · Linux hardening · Authorized penetration-testing labs
 
 *Security tools are used exclusively in authorized coursework, lab environments, and personal test systems.*
 
@@ -90,13 +93,11 @@ Network scanning · Packet analysis · Web security · Linux hardening · Author
 
 ### ⚙️ [DevOps Test Environment – Vagrant & Ansible](https://github.com/nicostan15/devops-ops-2627-group-3) (HoGent)
 *In progress — Infrastructure-as-Code project for deploying and managing a multi-server test environment with CI/CD.*
-- **Automated multi-VM environment**: one `vagrant up` creates and starts an Ansible control server, application server, database server, and build server.
-- **Central configuration management**: the Ansible control server configures all other VMs through reusable roles and a single playbook.
-- **CI/CD with Jenkins**: a dedicated build server runs Jenkins and is used to build, test, and deploy the .NET application through automated pipelines.
-- **Application infrastructure**: automated installation and configuration of Nginx, ASP.NET runtime, MariaDB, and the application database.
-- **Build infrastructure**: automated deployment of Jenkins, Git, Java, and the .NET SDK on a dedicated build server.
-- **Secure access**: SSH access between the control server and managed VMs is automatically bootstrapped by Vagrant.
-- **Reproducible setup**: the environment can be destroyed and rebuilt from scratch using Vagrant and Ansible, without manual server configuration.
+- **Automated multi-VM environment**: one `vagrant up` creates an Ansible control server, application server, database server, and build server.
+- **Central configuration management**: Ansible configures all managed VMs through reusable roles and a single playbook.
+- **CI/CD with Jenkins**: a dedicated build server runs Jenkins to build, test, and deploy the .NET application.
+- **Application stack**: Nginx, ASP.NET runtime, and MariaDB.
+- **Reproducible setup**: the environment can be rebuilt from scratch without manual server configuration.
 
 ### 🖥️ [Windows Server II – Automated AD/DNS/CA Infrastructure](https://github.com/nicostan15/Windows-Server-II-portofolio) (HoGent)
 *In progress — fully scripted Windows Server domain deployment via Vagrant & PowerShell.*
@@ -130,26 +131,21 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 - **Media Stack**: Jellyfin, Sonarr, Radarr, Prowlarr, qBittorrent.
 - **Network & Security**: Nginx Reverse Proxy & Pi-hole for network-wide ad-blocking.
 - **Projects**: SportFin (custom monitoring), continuous experimentation with Linux containers & services.
+
 ---
 
 ## 💼 Work experience
 
-### Crew Member
-**McDonald's – Brakelsesteenweg 40, Ninove**  
-**Nov 2024 – present**
+### Crew Member  
+**McDonald's – Ninove** | **Nov 2024 – present**
 
-- Working in a fast-paced and dynamic team under time pressure.
-- Customer-oriented communication and adapting to changing situations.
-- Flexible and stress-resistant in a busy environment.
+- Work in a fast-paced team environment, communicate customer-oriented, and remain flexible under pressure.
 
-### Construction Worker
-**Maridecor – Bouwsector**  
-**Summer 2022 & 2023**
+### Construction Worker  
+**Maridecor – Bouwsector** | **Summer 2022 & 2023**
 
-- Assisted with construction projects, material preparation, and site support.
-- Worked with responsibility, precision, and physical effort.
-- Collaborated in a small, close-knit team.
-
+- Supported construction projects with precision, responsibility, and teamwork.
+  
 ---
 
 ## 🌍 Languages
@@ -165,18 +161,12 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 
 ## 🤝 Soft skills
 
-<p>
-  <img src="https://img.shields.io/badge/Eager%20to%20learn-0369a1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Team%20player-0f766e?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Stress--resistant-b91c1c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flexible-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Proactive-1d4ed8?style=for-the-badge" />
-</p>
+Eager to learn · Team player · Stress-resistant · Flexible · Proactive
 
 ---
 
 ## 📫 Contact
 
 - Email: [nicholas.c.stanescu@gmail.com](mailto:nicholas.c.stanescu@gmail.com)
-- Phone: +32 483333394
 - GitHub: [nicostan15](https://github.com/nicostan15)
+- LinkedIn: [Nicholas Stanescu](https://www.linkedin.com/in/nicholas-stanescu-b6b120422/)
