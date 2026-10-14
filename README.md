@@ -23,55 +23,62 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 - Computer networks, Linux system administration, Windows Server & AD, cybersecurity, scripting & automation, virtualization.
 - Hands-on labs with Cisco Packet Tracer, GNS3, VMware, and Linux servers.
 
----
-
-## 💼 Work experience
-
-### Crew Member
-**McDonald's – Brakelsesteenweg 40, Ninove**  
-**Nov 2024 – present**
-
-- Working in a fast-paced and dynamic team under time pressure.
-- Customer-oriented communication and adapting to changing situations.
-- Flexible and stress-resistant in a busy environment.
-
-### Construction Worker
-**Maridecor – Bouwsector**  
-**Summer 2022 & 2023**
-
-- Assisted with construction projects, material preparation, and site support.
-- Worked with responsibility, precision, and physical effort.
-- Collaborated in a small, close-knit team.
-
----
-
 ## 🧰 Technical skills
 
-### Networking
+### 🌐 Networking & systems
 <p>
-  <img src="https://img.shields.io/badge/Cisco%20IOS-1ba0d7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0b5cad?style=for-the-badge&logo=internetarchive&logoColor=white" />
-  <img src="https://img.shields.io/badge/VLAN-4b5563?style=for-the-badge&logo=networkx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Routing%20%26%20Switching-334155?style=for-the-badge&logo=router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firewall%20Basics-991b1b?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/IPv4%20%26%20IPv6-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VLAN%20%26%20Routing-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS%20%26%20DHCP-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Active%20Directory-005A9C?style=for-the-badge" />
 </p>
 
-### Systems
-<p>
-  <img src="https://img.shields.io/badge/Windows%20Server-0078d4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-005a9c?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux%20Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-</p>
+Routing & switching · Subnetting · Firewalls · Linux administration · Windows Server · Active Directory
 
-### Tools & other
+### ⚙️ Automation & DevOps
 <p>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" />
 </p>
+
+Infrastructure as Code · Configuration management · CI/CD · Containerization · Deployment automation
+
+### 💻 Programming & databases
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+Object-oriented programming · Responsive web development · Database design · SQL · UML · Unit testing
+
+### 🛡️ Cybersecurity
+<p>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-111827?style=for-the-badge" />
+</p>
+
+Network scanning · Packet analysis · Web security · Linux hardening · Authorized penetration-testing labs
+
+*Security tools are used exclusively in authorized coursework, lab environments, and personal test systems.*
 
 ---
 
@@ -121,6 +128,28 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 - **Build infrastructure**: automated deployment of Jenkins, Git, Java, and the .NET SDK on a dedicated build server.
 - **Secure access**: SSH access between the control server and managed VMs is automatically bootstrapped by Vagrant.
 - **Reproducible setup**: the environment can be destroyed and rebuilt from scratch using Vagrant and Ansible, without manual server configuration.
+
+---
+
+## 💼 Work experience
+
+### Crew Member
+**McDonald's – Brakelsesteenweg 40, Ninove**  
+**Nov 2024 – present**
+
+- Working in a fast-paced and dynamic team under time pressure.
+- Customer-oriented communication and adapting to changing situations.
+- Flexible and stress-resistant in a busy environment.
+
+### Construction Worker
+**Maridecor – Bouwsector**  
+**Summer 2022 & 2023**
+
+- Assisted with construction projects, material preparation, and site support.
+- Worked with responsibility, precision, and physical effort.
+- Collaborated in a small, close-knit team.
+
+---
 
 ## 🌍 Languages
 
