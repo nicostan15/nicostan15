@@ -77,17 +77,7 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 
 ## 🚀 Projects
 
-### 🖥️ Windows Server II – Automated AD/DNS/CA Infrastructure (HoGent)
-*In progress — fully scripted Windows Server domain deployment via Vagrant & PowerShell.*
-- **Automation-first**: single `vagrant up` deploys a domain controller, DNS, CA, and DHCP across 3 Windows Server Core VMs + 1 Windows 11 RSAT client.
-- **Active Directory**: domain/forest promotion scripted end-to-end (functional level Windows Server 2025), with idempotent OU structure and user provisioning (Domain Admins/Domain Users).
-- **Troubleshooting**: resolved a WinRM authentication breakage caused by domain-controller promotion by reconfiguring Vagrant's WinRM transport.
-- **Next up**: DNS (primary/secondary, zone transfers), Certification Authority, IIS, and firewall hardening.
-
 ### 🛡️ Cybersecurity & Exploitatie (HoGent NPE)
-*Analyses and PoC's for RCE vulnerabilities in a controlled lab environment.*
-- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC analysis, automation & hardening recommendations.
-- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploit research (Auth bypass + Command injection).
 
 ### 🛠️ [System Engineering Project](https://github.com/HoGentTIN/system-engineering-project-25-26-sep2526-a04)
 *Trajectory for managing scalable IT-infrastructure.*
@@ -95,6 +85,10 @@ Motivated second-year Bachelor student in Applied Informatics at HoGent, with a 
 - **Enterprise-ready**: Setup of **NetBox** (IPAM), **Nextcloud**, and **High Availability database clusters** (MariaDB).
 - **Network Simulation**: Complex topologies in **Packet Tracer** (IPv4/IPv6).
 - **Storage & PXE**: Enterprise storage (RAID/NFS/iSCSI) & network-based booting.
+
+*Analyses and PoC's for RCE vulnerabilities in a controlled lab environment.*
+- **[Langflow RCE (CVE-2026-33017)](https://github.com/Jorrit-VM/CVE-2026-33017)**: PoC analysis, automation & hardening recommendations.
+- **[Cacti RCE (CVE-2022-46169)](https://github.com/nicostan15/CVE-2022-46169)**: Exploit research (Auth bypass + Command injection).
 
 ### 🎮 Software Development (Alhambra Dice Game)
 *Object-oriented Java application based on 3-tier architecture.*
@@ -110,6 +104,13 @@ I manage a dedicated **Proxmox** home lab on a mini-server to explore virtualiza
 - **Network & Security**: Nginx Reverse Proxy & Pi-hole for network-wide ad-blocking.
 - **Projects**: SportFin (custom monitoring), continuous experimentation with Linux containers & services.
 ---
+
+### 🖥️ [Windows Server II – Automated AD/DNS/CA Infrastructure](https://github.com/nicostan15/Windows-Server-II-portofolio) (HoGent)
+*In progress — fully scripted Windows Server domain deployment via Vagrant & PowerShell.*
+- **Automation-first**: single `vagrant up` deploys a domain controller, DNS, CA, and DHCP across 3 Windows Server Core VMs + 1 Windows 11 RSAT client.
+- **Active Directory**: domain/forest promotion scripted end-to-end (functional level Windows Server 2025), with idempotent OU structure and user provisioning (Domain Admins/Domain Users).
+- **Troubleshooting**: resolved a WinRM authentication breakage caused by domain-controller promotion by reconfiguring Vagrant's WinRM transport.
+- **Next up**: DNS (primary/secondary, zone transfers), Certification Authority, IIS, and firewall hardening.
 
 ## 🌍 Languages
 
